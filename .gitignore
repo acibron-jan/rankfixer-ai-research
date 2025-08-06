@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# API keys
+.env
+*.key
+
+# Build artifacts
+dist/
+build/
+
+# Temporary files
+tmp/
+*.tmp
