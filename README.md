@@ -200,7 +200,7 @@ Join our early access program to:
 - **💬 Discussions**: [GitHub Discussions](https://github.com/acibron-jan/rankfixer-ai-research/discussions)
 - **🐛 Issues**: [GitHub Issues](https://github.com/acibron-jan/rankfixer-ai-research/issues)
 - **📧 Email**: hello@rankfixer.co
-- **🐦 Twitter**: [@RankFixer](https://twitter.com/rankfixer)
+- **🐦 Twitter**: [@RankFixerAI](https://x.com/RankFixerAI))
 
 ## 📄 License
 
