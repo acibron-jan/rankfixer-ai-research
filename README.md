@@ -2,7 +2,10 @@
 
 <div align="center">
 
-![RankFixer Logo](./assets/rankfixer-logo.png)
+<div align="center">
+  <img src="./assets/rankfixer-logo.png" width="200" alt="RankFixer Logo">
+</div>
+
 
 
 **Solving the broken connection between AI systems and quality web sources**
