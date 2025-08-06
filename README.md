@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![RankFixer Logo](https://via.placeholder.com/200x100/6366f1/ffffff?text=RankFixer)
+![RankFixer Logo](./assets/rankfixer-logo.png)
+
 
 **Solving the broken connection between AI systems and quality web sources**
 
